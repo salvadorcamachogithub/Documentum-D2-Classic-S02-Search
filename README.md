@@ -6,6 +6,6 @@ This script was created with best practices, so it is more resilient, such as:
 * Data Driving, parametrization of credentials, URL, search term and Browser
 * Some main validations
 
-This script logs in to Documentum D2 Classic, does a searhc and then logs out
+This script logs in to Documentum D2 Classic, does a search and then logs out
 
 This script doesn't have transactions
